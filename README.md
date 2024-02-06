@@ -13,6 +13,7 @@ Currently, I'm exploring the latest in machine learning algorithms and honing my
 
 ## GitHub Stats
 ![My GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=asma-hachaichi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asma-hachaichi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Connect with Me
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/asma-hachaichi-4a194916a/)
