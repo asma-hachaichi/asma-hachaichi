@@ -1,8 +1,8 @@
 # Hello, I'm Asma Hachaichi! 👋
 
 ## About Me
-I'm a Computer Science Engineer with a passion for Data Science and Web Development. 
-I love using technology to solve problems and make data-driven decisions. 
+I'm a Computer Science Engineer with a passion for Data Science and Web Development.   
+I love using technology to solve problems and make data-driven decisions.   
 Currently, I'm exploring the latest in machine learning algorithms and honing my skills in front-end and back-end web technologies.
 
 ## My Skills
