@@ -12,7 +12,7 @@ Currently, I'm exploring the latest in machine learning algorithms and honing my
 - **Areas of Interest**: Machine Learning, Data Analysis, Full Stack Development
 
 ## GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=asma-hachaichi&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=asma-hachaichi)
 
 ## Connect with Me
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/asma-hachaichi-4a194916a/)
