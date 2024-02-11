@@ -17,8 +17,10 @@ Currently, I'm exploring the latest in machine learning algorithms and honing my
 
 ## Connect with Me
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/asma-hachaichi-4a194916a/)
+- **Web Portfolio**: [Web Wizardry by Asma Hachaichi](https://asma-hachaichi.github.io/portfolio/?fbclid=IwAR1AvbXEvU34oE_HuVJQLKO6XbTr_fkTJS7VfaJYeDAitKDfua8e-H2qDXk)
 - **GitHub**: [GitHub Profile](https://github.com/asma-hachaichi)
 - **Kaggle**: [Kaggle Profile](https://www.kaggle.com/asmahachaichi)
-- **Portfolio**: [Portfolio URL](https://asma-hachaichi.github.io/portfolio/?fbclid=IwAR1AvbXEvU34oE_HuVJQLKO6XbTr_fkTJS7VfaJYeDAitKDfua8e-H2qDXk)
 
-Thank you for visiting my GitHub profile! Feel free to browse my repositories and get in touch if you're interested in collaborating on a project.
+---
+
+*Thank you for visiting my GitHub profile! Feel free to browse my repositories and get in touch if you're interested in collaborating on a project! 😄*
